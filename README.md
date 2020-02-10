@@ -1,7 +1,17 @@
+## 项目环境
+1.pyspark 2.4.4
+2.python 3*
+3.jupyter notebook
+4.pandas
+5.seaborn
 
-### 项目背景
+## 项目动机
+使用spark对用户日志数据分析，探索预测用户流失
 
-Sparkify是一款音乐流社交应用，其日志数据记录了用户的使用行为，根据用户历史行为数据判断和预测用户流失对运营有重要意义。本次分析尝试使用Spark ML 对用户行为特征建模，预测用户流失。以下将对一个迷你的子数据集（128MB），是完整数据集（12GB）的一个子集进行探索分析。
+## 文件描述
+包含 notebook文件：Sparkify-zh-mini.ipynb 和 md文件：README.md
+
+## 结果总结
 
 ### 数据探索
 
