@@ -12,7 +12,7 @@
 使用spark对用户日志数据进行分析，探索预测用户流失的计算模型
 
 ## 文件描述
-包含 notebook文件：Sparkify-zh-mini.ipynb 和 md文件：README.md
+包含 notebook文件：Sparkify-zh-mini.ipynb 和 readme文件：README.md  分析报告：Sparkify用户流失分析.md
 
 ## 结果总结
 
