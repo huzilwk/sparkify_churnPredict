@@ -1,9 +1,9 @@
 ## 项目环境
-1.pyspark 2.4.4
-2.python 3*
-3.jupyter notebook
-4.pandas
-5.seaborn
+   1.pyspark 2.4.4
+   2.python 3*
+   3.jupyter notebook
+   4.pandas
+   5.seaborn
 
 ## 项目动机
 使用spark对用户日志数据分析，探索预测用户流失
